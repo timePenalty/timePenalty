@@ -7,7 +7,7 @@ body {
 aside {
   position: absolute;
   width: 250px;
-  height: 100%;
+  height: 1000px;
   background-color: #2970FF;
 }
 
@@ -30,6 +30,7 @@ aside {
 .chatContents {
   width: 1950px;
   height: 250px;
+  margin-bottom: 10px;
 }
 
 .user_Name {
